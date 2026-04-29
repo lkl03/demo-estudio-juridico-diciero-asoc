@@ -1,2 +1,7 @@
-# demo-estudio-juridico-diciero-asoc
-Demo web para Estudio Jurídico Diciero&amp;Asoc. — diseñada por eterlab.
+# Estudio Jurídico Diciero&Asoc.
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
